@@ -13,7 +13,7 @@
         "sizes": "512x512"
       }
     ],
-    "start_url": "/index.html",
+    "start_url": "https://www.bengodfrey.net/trio-security/",
     "background_color": "#76B128",
     "display": "standalone",
     "scope": "/",
